@@ -21,6 +21,8 @@ public class Main {
         int k = scanner.nextInt();
 
 
+
+
         System.out.println(a + "-სა და " + b + "-ს შორის " + k + "-ის ჯერადების ჯამი არის: " + methods.sumOfMultiples(a, b, k));
 
         // 3.

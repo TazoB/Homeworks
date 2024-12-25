@@ -31,7 +31,7 @@ public class Main {
         // 15) b
 
         // 16)
-/*
+
         int[] books = {1,5,9,2,10,7};
         int maxValue = books[0], minValue = books[0], maxStore = 0, minStore = 0;
 
@@ -162,6 +162,6 @@ public class Main {
                System.out.print(arr[i][j] + " ");
            }
            System.out.println();
-       }*/
+       }
     }
 }

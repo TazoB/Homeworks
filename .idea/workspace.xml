@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="170ec296-9af0-45a4-957b-e5d9aa4a7b1f" name="Changes" comment="" />
+    <list default="true" id="bbe44703-f019-436f-91e7-9cfee846374f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Homeworks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ciklebis davaleba 2/Ciklebis davaleba 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cvladebi davaleba 3/Cvladebi davaleba 3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inkafsulaciis davaleba 1/Inkafsulaciis davaleba 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klasebi da operatorebi davaleba 2/Klasebi da operatorebi davaleba 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Klasebi da operatorebi davaleba 2/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Klasebi da operatorebi davaleba 2/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memkvidreobis davaleba 1/Memkvidreobis davaleba 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Memkvidreobis davaleba 2/Memkvidreobis davaleba 2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shemajamebeli 1/Shemajamebeli 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Shemajamebeli 1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Shemajamebeli 1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ciklebis davaleba 1/ciklebis davaleba 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inkafsulaciis davaleba 2/inkafsulaciis davaleba 2.iml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2otC7v0yv8BU2tOcS4NBQR4JQiR" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2qfzs1k581cKZQPGDes1VtoU2CP" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,11 +46,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="170ec296-9af0-45a4-957b-e5d9aa4a7b1f" name="Changes" comment="" />
-      <created>1731679320868</created>
+      <changelist id="bbe44703-f019-436f-91e7-9cfee846374f" name="Changes" comment="" />
+      <created>1735068621216</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1731679320868</updated>
+      <updated>1735068621216</updated>
     </task>
     <servers />
   </component>
