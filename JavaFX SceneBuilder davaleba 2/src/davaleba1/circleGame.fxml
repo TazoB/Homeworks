@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Circle?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="davaleba1.CircleGameController">
+   <children>
+      <Button layoutX="530.0" layoutY="201.0" mnemonicParsing="false" onAction="#right" text="Right" />
+      <Button layoutX="24.0" layoutY="201.0" mnemonicParsing="false" onAction="#left" text="Left" />
+      <Button layoutX="276.0" layoutY="350.0" mnemonicParsing="false" onAction="#down" text="Down" />
+      <Button layoutX="284.0" layoutY="32.0" mnemonicParsing="false" onAction="#up" text="Up" />
+      <Button layoutX="68.0" layoutY="78.0" mnemonicParsing="false" onAction="#upLeft" text="Up-Left" />
+      <Button layoutX="60.0" layoutY="304.0" mnemonicParsing="false" onAction="#downLeft" text="Down-Left" />
+      <Button layoutX="457.0" layoutY="65.0" mnemonicParsing="false" onAction="#upRight" text="Up-Right" />
+      <Button layoutX="457.0" layoutY="304.0" mnemonicParsing="false" onAction="#downRight" prefHeight="26.0" prefWidth="88.0" text="Down-Right" />
+      <Circle fx:id="circle" fill="DODGERBLUE" layoutX="300.0" layoutY="214.0" radius="57.0" stroke="BLACK" strokeType="INSIDE" />
+      <Button fx:id="colorChangerButton" layoutX="498.0" layoutY="363.0" mnemonicParsing="false" onAction="#changeColor" text="Color Changer" />
+   </children>
+</AnchorPane>
